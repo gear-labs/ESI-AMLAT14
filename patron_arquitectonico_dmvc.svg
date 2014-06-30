@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="1060"
+   height="677"
+   sodipodi:docname="patron_arquitectonico_dmvc.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 338.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1060 : 338.5 : 1"
+       inkscape:persp3d-origin="530 : 225.66667 : 1"
+       id="perspective3031" />
+    <filter
+       inkscape:collect="always"
+       id="filter3794">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9739927"
+         id="feGaussianBlur3796" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3810">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.0235592"
+         id="feGaussianBlur3812" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3818">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.0235592"
+         id="feGaussianBlur3820" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3794-5">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9739927"
+         id="feGaussianBlur3796-3" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="678"
+     id="namedview4"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     inkscape:zoom="0.52014648"
+     inkscape:cx="-3333.2973"
+     inkscape:cy="2225.6516"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     style="fill:#ffffff;fill-opacity:0.92444446;stroke:#000000"
+     id="rect3121"
+     width="2691.6868"
+     height="2349.1086"
+     x="-4817.8477"
+     y="-1427.4098"
+     rx="20.5"
+     ry="20.499998"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <rect
+     style="fill:#760045;fill-opacity:0.83111112;stroke:#000000;stroke-width:0.87884295;filter:url(#filter3794)"
+     id="rect2991"
+     width="374.79752"
+     height="108.97196"
+     x="-1343.9875"
+     y="29.772593"
+     rx="20.5"
+     ry="15.83348"
+     transform="matrix(1,0,0,1.2947248,-3036.9685,-471.38177)"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <rect
+     style="fill:#f10f00;fill-opacity:0.88888891;stroke:#000000;stroke-width:0.87995964;filter:url(#filter3810)"
+     id="rect2991-0"
+     width="374.79752"
+     height="108.97196"
+     x="-643.09967"
+     y="29.773039"
+     rx="20.51252"
+     ry="15.864057"
+     transform="matrix(0.99938969,0,0,1.2922293,-2799.6085,-471.17196)"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <rect
+     style="fill:#800000;fill-opacity:0.92444446;stroke:#000000;stroke-width:0.87969112;filter:url(#filter3818)"
+     id="rect2991-0-2"
+     width="374.79752"
+     height="108.97196"
+     x="-1003.0374"
+     y="-457.40497"
+     rx="20.5"
+     ry="15.864057"
+     transform="matrix(1,0,0,-1.2922293,-2911.4857,-372.64793)"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3075"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Waree;font-style:normal;font-weight:normal;font-size:36px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Waree;font-stretch:normal;font-variant:normal;writing-mode:lr"><flowRegion
+       id="flowRegion3077"><rect
+         id="rect3079"
+         width="247.66356"
+         height="33.021809"
+         x="-1277.944"
+         y="52.887852"
+         style="font-size:36px" /></flowRegion><flowPara
+       id="flowPara3081" /></flowRoot>  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-1185.4829"
+     y="693.51093"
+     id="text3083"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3085"
+       x="-1185.4829"
+       y="693.51093" /></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3087"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Waree;font-style:normal;font-weight:normal;font-size:18px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Waree;font-stretch:normal;font-variant:normal;writing-mode:lr"><flowRegion
+       id="flowRegion3089"><rect
+         id="rect3091"
+         width="700.06232"
+         height="310.405"
+         x="-1614.7664"
+         y="531.70404" /></flowRegion><flowPara
+       id="flowPara3093" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot3095"
+     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Waree;font-style:normal;font-weight:normal;font-size:18px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Waree;font-stretch:normal;font-variant:normal;writing-mode:lr"><flowRegion
+       id="flowRegion3097"><rect
+         id="rect3099"
+         width="610.90344"
+         height="353.33334"
+         x="-1542.1184"
+         y="472.2648" /></flowRegion><flowPara
+       id="flowPara3101" /></flowRoot>  <text
+     xml:space="preserve"
+     style="font-size:20.40290451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-4396.5576"
+     y="-332.45657"
+     id="text3103"
+     sodipodi:linespacing="125%"
+     transform="scale(0.97781637,1.0226869)"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3105"
+       x="-4396.5576"
+       y="-332.45657"
+       style="font-size:63.47570419px;font-style:normal;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Waree Bold">Model</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20.40290451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3475.0305"
+     y="-327.26895"
+     id="text3103-4"
+     sodipodi:linespacing="125%"
+     transform="scale(0.97781637,1.0226869)"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3105-9"
+       x="-3475.0305"
+       y="-327.26895"
+       style="font-size:63.47570419px;font-style:normal;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Waree Bold">Drawing</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20.40290451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3995.0369"
+     y="165.6324"
+     id="text3103-4-7"
+     sodipodi:linespacing="125%"
+     transform="scale(0.97781637,1.0226869)"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3105-9-2"
+       x="-3995.0369"
+       y="165.6324"
+       style="font-size:63.47570419px;font-style:normal;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Waree Bold">Controller</tspan></text>
+  <a
+     transform="matrix(-0.99990384,-0.0138682,0.0138682,-0.99990384,-5266.8701,239.69987)"
+     id="a3929-7"
+     style="stroke:#0000ff"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3864-8"
+       d="m -1357.1963,211.39252 211.3396,290.5919"
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -4116.477,-251.30183 26.8803,12.40011"
+     id="path3866-0-7"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <a
+     transform="matrix(-0.99990384,-0.0138682,0.0138682,-0.99990384,-5266.8701,239.69987)"
+     id="a3957-7"
+     style="stroke:#0000ff"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3866-0-5-8"
+       d="m -1143.2317,506.92265 -0.4703,-28.49151"
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <a
+     transform="matrix(-0.27887274,-0.95985311,0.82714256,-0.32361636,-4112.517,-1192.026)"
+     id="a3929-7-9"
+     style="stroke:#0000ff;stroke-width:1.06347895"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3864-8-4"
+       d="m -1357.1963,211.39252 211.3396,290.5919"
+       style="fill:none;stroke:#0000ff;stroke-width:1.06347895px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <path
+     style="fill:#008080;stroke:#0000ff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -3374.3481,-258.50363 -2.4039,29.8556"
+     id="path3866-0-7-1"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <a
+     transform="matrix(-0.27887274,-0.95985311,0.82714256,-0.32361636,-4112.517,-1192.026)"
+     id="a3957-7-8"
+     style="fill:#008080;stroke:#0000ff;stroke-width:1.06347895"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3866-0-5-8-2"
+       d="m -1143.2317,506.92265 -0.4703,-28.49151"
+       style="fill:#008080;stroke:#0000ff;stroke-width:1.06347895px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <rect
+     style="fill:#cccccc;fill-opacity:0.92444446;stroke:#000000"
+     id="rect4058"
+     width="1042.0142"
+     height="557.53522"
+     x="-3788.5208"
+     y="-1354.621"
+     rx="20.5"
+     ry="20.499998"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <rect
+     style="fill:#008080;fill-opacity:0.92444446;stroke:#000000"
+     id="rect4056"
+     width="819.00006"
+     height="388.35214"
+     x="-3673.1687"
+     y="-1265.7971"
+     rx="20.5"
+     ry="20.499998"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-640.20428"
+     y="-722.60571"
+     id="text4060"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4062"
+       x="-640.20428"
+       y="-722.60571" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20.40290451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3562.7112"
+     y="-1258.3737"
+     id="text3103-4-1"
+     sodipodi:linespacing="125%"
+     transform="scale(0.97781637,1.0226869)"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3105-9-5"
+       x="-3562.7112"
+       y="-1258.3737"
+       style="font-size:63.47570419px;font-style:normal;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Waree Bold">View </tspan></text>
+  <rect
+     style="fill:#800000;fill-opacity:0.92444446;stroke:#000000"
+     id="rect4085"
+     width="131.86546"
+     height="114.19277"
+     x="-3636.6252"
+     y="-1224.053"
+     rx="20.5"
+     ry="20.499998"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3608.6389"
+     y="-1085.3904"
+     id="text4087"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan4089"
+       x="-3608.6389"
+       y="-1085.3904"
+       style="font-size:22px;font-weight:bold;-inkscape-font-specification:Waree Bold">HTML</tspan></text>
+  <rect
+     style="fill:#800000;fill-opacity:0.92444446;stroke:#000000"
+     id="rect4085-2"
+     width="131.86546"
+     height="114.19277"
+     x="-3325.9937"
+     y="-1222.4436"
+     rx="20.5"
+     ry="20.499998"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3288.4915"
+     y="-1083.7809"
+     id="text4087-8"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan4089-6"
+       x="-3288.4915"
+       y="-1083.7809"
+       style="font-size:22px;font-weight:bold;-inkscape-font-specification:Waree Bold">CSS</tspan></text>
+  <rect
+     style="fill:#800000;fill-opacity:0.92444446;stroke:#000000"
+     id="rect4085-2-1"
+     width="131.86546"
+     height="114.19277"
+     x="-3011.9634"
+     y="-1222.4435"
+     rx="20.5"
+     ry="20.499998"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-2957.5859"
+     y="-1085.7809"
+     id="text4087-8-2"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan4089-6-8"
+       x="-2957.5859"
+       y="-1085.7809"
+       style="font-size:22px;font-weight:bold;-inkscape-font-specification:Waree Bold">JS</tspan></text>
+  <rect
+     style="fill:#800000;fill-opacity:0.92444446;stroke:#000000"
+     id="rect4085-2-1-6"
+     width="131.86546"
+     height="114.19277"
+     x="-3638.6643"
+     y="-1032.1224"
+     rx="20.5"
+     ry="20.499998"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3610.6785"
+     y="-893.45966"
+     id="text4087-8-2-6"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan4089-6-8-8"
+       x="-3610.6785"
+       y="-893.45966"
+       style="font-size:22px;font-weight:bold;-inkscape-font-specification:Waree Bold">FONT</tspan></text>
+  <rect
+     style="fill:#800000;fill-opacity:0.92444446;stroke:#000000"
+     id="rect4085-2-1-6-6"
+     width="131.86546"
+     height="114.19277"
+     x="-3327.353"
+     y="-1031.9657"
+     rx="20.5"
+     ry="20.499998"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3305.3669"
+     y="-893.30304"
+     id="text4087-8-2-6-7"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan4089-6-8-8-9"
+       x="-3305.3669"
+       y="-893.30304"
+       style="font-size:22px;font-weight:bold;-inkscape-font-specification:Waree Bold">Images</tspan></text>
+  <rect
+     style="fill:#800000;fill-opacity:0.92444446;stroke:#000000"
+     id="rect4085-2-1-6-6-1"
+     width="131.86546"
+     height="114.19277"
+     x="-3016.0417"
+     y="-1031.2469"
+     rx="20.5"
+     ry="20.499998"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-2988.0559"
+     y="-892.58417"
+     id="text4087-8-2-6-7-6"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan4089-6-8-8-9-7"
+       x="-2988.0559"
+       y="-892.58417"
+       style="font-size:22px;font-weight:bold;-inkscape-font-specification:Waree Bold">Otros</tspan></text>
+  <a
+     transform="matrix(-0.80567212,-0.49434137,0.59234708,-0.66846057,-4416.3672,-997.47669)"
+     id="a3929-74-9"
+     style="fill:#00ffff;stroke:#0000ff;stroke-width:1.09673011"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3864-9-3"
+       d="m -1357.1963,211.39252 211.3396,290.5919"
+       style="fill:#00ffff;stroke:#0000ff;stroke-width:1.09673011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <path
+     style="fill:#008080;stroke:#0000ff;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -3198.6906,-463.39625 -14.6694,-21.41074"
+     id="path3866-0-3-8"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <a
+     transform="matrix(0.80567212,0.49434137,-0.59234708,0.66846057,-1977.1605,-236.97841)"
+     id="a3957-5-3"
+     style="fill:#008080;stroke:#0000ff;stroke-width:1.09673011"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3866-0-5-0-1"
+       d="m -1143.2317,506.92265 -0.4703,-28.49151"
+       style="fill:#008080;stroke:#0000ff;stroke-width:1.09673011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <a
+     transform="matrix(-0.80567212,-1.3047569,0.59234708,-1.7643243,-4456.2335,-845.38594)"
+     id="a3929-74-9-8"
+     style="fill:#00ffff;stroke:#0000ff;stroke-width:0.67506945"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3864-9-3-5"
+       d="m -1357.1963,211.39252 211.3396,290.5919"
+       style="fill:#00ffff;stroke:#0000ff;stroke-width:0.67506945px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <path
+     style="fill:#008080;stroke:#0000ff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -3236.9426,563.38642 -16.5145,-24.067"
+     id="path3866-0-3-8-4"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <a
+     transform="matrix(0.84696573,0.52076574,-0.53180437,0.82989743,-1998.884,738.18602)"
+     id="a3957-5-3-4"
+     style="fill:#008080;stroke:#0000ff;stroke-width:1.01023495"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3866-0-5-0-1-8"
+       d="m -1143.2317,506.92265 -0.4703,-28.49151"
+       style="fill:#008080;stroke:#0000ff;stroke-width:1.01023495px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <a
+     transform="matrix(0.80607828,0.49367881,-0.5917973,0.66894735,-2068.5374,-233.38455)"
+     id="a3929-74-9-9"
+     style="fill:#00ffff;stroke:#0000ff;stroke-width:1.09673011"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3864-9-3-55"
+       d="m -1357.1963,211.39252 211.3396,290.5919"
+       style="fill:#00ffff;stroke:#0000ff;stroke-width:1.09673011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <path
+     style="fill:#008080;stroke:#0000ff;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -3286.6526,-766.46369 14.687,21.39868"
+     id="path3866-0-3-8-5"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <a
+     transform="matrix(-0.80607828,-0.49367881,0.5917973,-0.66894735,-4508.3686,-991.87715)"
+     id="a3957-5-3-5"
+     style="fill:#008080;stroke:#0000ff;stroke-width:1.09673011"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3866-0-5-0-1-1"
+       d="m -1143.2317,506.92265 -0.4703,-28.49151"
+       style="fill:#008080;stroke:#0000ff;stroke-width:1.09673011px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <a
+     transform="matrix(0.58325019,-0.81229256,0.81229256,0.58325019,-3285.6609,-1584.2473)"
+     id="a3929-2"
+     style="stroke:#0000ff;stroke-width:1"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3864-5"
+       d="m -1357.1963,211.39252 211.3396,290.5919"
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -3540.834,-359.75825 -25.5454,14.95794"
+     id="path3866-0-4"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <a
+     transform="matrix(0.58325019,-0.81229256,0.81229256,0.58325019,-3285.6609,-1584.2473)"
+     id="a3957-8"
+     style="stroke:#0000ff;stroke-width:1"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3866-0-5-4"
+       d="m -1143.2317,506.92265 -0.4703,-28.49151"
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="95.160645"
+     y="-802.0683"
+     id="text4391"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4393"
+       x="95.160645"
+       y="-802.0683" /></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4397"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     transform="translate(-2851.6831,-457.89328)"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><flowRegion
+       id="flowRegion4399"><rect
+         id="rect4401"
+         width="346.65662"
+         height="39.423706"
+         x="-459.48996"
+         y="-861.88354" /></flowRegion><flowPara
+       id="flowPara4403"
+       style="font-size:32px;font-weight:bold;fill:#ffffff;-inkscape-font-specification:Waree Bold">- Directorio <flowSpan
+   style="font-size:32px;font-style:oblique;-inkscape-font-specification:Waree Bold Oblique"
+   id="flowSpan4405">client</flowSpan></flowPara></flowRoot>  <rect
+     style="fill:#008000;fill-opacity:0.83111112;stroke:#000000;stroke-width:0.69836313;filter:url(#filter3794-5)"
+     id="rect2991-2"
+     width="374.79752"
+     height="108.97196"
+     x="-1343.9875"
+     y="29.772593"
+     rx="18.166117"
+     ry="11.282574"
+     transform="matrix(1.1284745,0,0,1.8169612,-1911.2208,572.38822)"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <text
+     xml:space="preserve"
+     style="font-size:20.27194786px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-4203.7622"
+     y="532.59802"
+     id="text3103-3"
+     sodipodi:linespacing="125%"
+     transform="scale(0.76481929,1.3074984)"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan3105-3"
+       x="-4203.7622"
+       y="532.59802"
+       style="font-size:63.06827545px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Waree Bold">Usuario</tspan><tspan
+       sodipodi:role="line"
+       x="-4203.7622"
+       y="611.43341"
+       style="font-size:63.06827545px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#ffffff;-inkscape-font-specification:Waree Bold"
+       id="tspan4446">(Navegador)</tspan></text>
+  <path
+     style="fill:#008000;stroke:#0000ff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -3129.4184,881.23892 30.3337,17.4017"
+     id="path3866-0-7-16"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <a
+     transform="matrix(-1.128366,-0.01946204,0.01564991,-1.4032221,-4427.6077,1570.2896)"
+     id="a3957-7-9"
+     style="fill:#008000;stroke:#0000ff;stroke-width:0.79463929"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3866-0-5-8-3"
+       d="m -1143.2317,506.92265 -0.4703,-28.49151"
+       style="fill:#008000;stroke:#0000ff;stroke-width:0.79463929px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <a
+     transform="matrix(-0.99990384,-0.0138682,0.0138682,-0.99990384,-4810.1336,780.32412)"
+     id="a3929-7-98"
+     style="stroke:#0000ff"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3864-8-6"
+       d="m -1357.1963,211.39252 211.3396,290.5919"
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -3659.7405,289.32243 26.8803,12.4001"
+     id="path3866-0-7-3"
+     inkscape:connector-curvature="0"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <a
+     transform="matrix(-0.99990384,-0.0138682,0.0138682,-0.99990384,-4810.1336,780.32412)"
+     id="a3957-7-2"
+     style="stroke:#0000ff"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3866-0-5-8-21"
+       d="m -1143.2317,506.92265 -0.4703,-28.49151"
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </a>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-4043.1956"
+     y="467.33044"
+     id="text4478"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       id="tspan4480"
+       x="-4043.1956"
+       y="467.33044"
+       style="font-size:40px"><tspan
+   style="font-size:40px;font-weight:bold;-inkscape-font-specification:Waree Bold"
+   id="tspan4486">1.</tspan> El usuario envía una</tspan><tspan
+       sodipodi:role="line"
+       x="-4043.1956"
+       y="519.05585"
+       style="font-size:40px"
+       id="tspan4482">petición al controlador</tspan><tspan
+       sodipodi:role="line"
+       x="-4043.1956"
+       y="569.05585"
+       style="font-size:40px"
+       id="tspan4484">correspondiente vía url</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-4529.3589"
+     y="-67.151146"
+     id="text4478-9"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       x="-4529.3589"
+       y="-67.151146"
+       style="font-size:40px"
+       id="tspan4484-8"><tspan
+   style="font-size:40px;font-weight:bold;-inkscape-font-specification:Waree Bold"
+   id="tspan4486-8">2.</tspan> El controlador obtiene</tspan><tspan
+       sodipodi:role="line"
+       x="-4529.3589"
+       y="-15.425731"
+       style="font-size:40px"
+       id="tspan4527">los modelos a utilizar</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3935.9192"
+     y="-170.42693"
+     id="text4478-9-3"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       x="-3935.9192"
+       y="-170.42693"
+       style="font-size:40px"
+       id="tspan4527-0"><tspan
+   style="font-size:40px;font-weight:bold;-inkscape-font-specification:Waree Bold"
+   id="tspan4486-8-5">3.</tspan> El controlador </tspan><tspan
+       sodipodi:role="line"
+       x="-3935.9192"
+       y="-118.70151"
+       style="font-size:40px"
+       id="tspan4560">selecciona un drawing</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3841.6304"
+     y="-661.8512"
+     id="text4478-9-3-8"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       x="-3841.6304"
+       y="-661.8512"
+       style="font-size:40px"
+       id="tspan4560-3"><tspan
+   style="font-size:40px;font-weight:bold;-inkscape-font-specification:Waree Bold"
+   id="tspan4486-8-5-5">4.</tspan> El drawing selecciona</tspan><tspan
+       sodipodi:role="line"
+       x="-3841.6304"
+       y="-610.12579"
+       style="font-size:40px"
+       id="tspan4597">la plantilla y subplantillas</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3164.0813"
+     y="-677.23145"
+     id="text4478-9-3-8-7"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       x="-3164.0813"
+       y="-677.23145"
+       style="font-size:40px;font-weight:normal;-inkscape-font-specification:Waree"
+       id="tspan4630"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Waree Bold;font-size:40px"
+   id="tspan4638">5.</tspan> Se devuelve la</tspan><tspan
+       sodipodi:role="line"
+       x="-3164.0813"
+       y="-641.02368"
+       style="font-size:40px;font-weight:normal;-inkscape-font-specification:Waree"
+       id="tspan4634">plantilla principal</tspan><tspan
+       sodipodi:role="line"
+       x="-3164.0813"
+       y="-606.02368"
+       style="font-size:40px;font-weight:normal;-inkscape-font-specification:Waree"
+       id="tspan4636">y las subplantillas</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3968.5442"
+     y="-494.78781"
+     id="text4478-9-3-8-7-4"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       x="-3968.5442"
+       y="-494.78781"
+       style="font-size:40px;font-weight:normal;-inkscape-font-specification:Waree"
+       id="tspan4636-9"><tspan
+   style="font-size:40px;font-weight:bold;-inkscape-font-specification:Waree Bold"
+   id="tspan4638-7">6.</tspan> Se obtienen los datos</tspan><tspan
+       sodipodi:role="line"
+       x="-3968.5442"
+       y="-443.06241"
+       style="font-size:40px;font-weight:normal;-inkscape-font-specification:Waree"
+       id="tspan4679">de los modelos y se </tspan><tspan
+       sodipodi:role="line"
+       x="-3968.5442"
+       y="-393.06241"
+       style="font-size:40px;font-weight:normal;-inkscape-font-specification:Waree"
+       id="tspan4681">reemplazan las <tspan
+   style="font-size:40px;font-style:oblique;-inkscape-font-specification:Waree Oblique"
+   id="tspan4683">listas</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Waree;-inkscape-font-specification:Waree"
+     x="-3192.437"
+     y="104.30342"
+     id="text4478-9-3-8-7-4-7"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/home/gvso/2MVCFramework/patron_arquitectonico_dmvc.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90"><tspan
+       sodipodi:role="line"
+       x="-3192.437"
+       y="104.30342"
+       style="font-size:40px;font-weight:normal;-inkscape-font-specification:Waree"
+       id="tspan4681-1"><tspan
+   style="font-size:40px;font-weight:bold;-inkscape-font-specification:Waree Bold"
+   id="tspan4731">7.</tspan> El drawing devuelve</tspan><tspan
+       sodipodi:role="line"
+       x="-3192.437"
+       y="156.02884"
+       style="font-size:40px;font-weight:normal;-inkscape-font-specification:Waree"
+       id="tspan4733">una plantilla final <tspan
+   style="font-size:40px;font-style:oblique;-inkscape-font-specification:Waree Oblique"
+   id="tspan4735">(vista)</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="-3192.437"
+       y="206.02884"
+       style="font-size:40px;font-weight:normal;-inkscape-font-specification:Waree"
+       id="tspan4737">con los datos del modelo</tspan></text>
+</svg>
